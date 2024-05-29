@@ -15,7 +15,7 @@ JayHlens Event Management System is a web application designed to streamline the
 
 To run the JayHlens Event Management System locally, follow these steps:
 
-1. **Clone the repository**: `git clone [https://github.com/starjakes/jayhlens.git](https://github.com/Starjakes/Alx-Webstack_Portfolio_Project/tree/master)`
+1. **Clone the repository**: `git clone https://github.com/Starjakes/Alx-Webstack_Portfolio_Project.git`
 2. **Navigate to the project directory**: `cd jayhlens`
 3. **Install dependencies**: `pip install flask`
 4. **Set up the MySQL database**: Execute the provided SQL script.
