@@ -1,7 +1,5 @@
 # JayHlens Event Management System
 
-![JayHlens Logo](../../static/root/img/logo.png)
-
 JayHlens Event Management System is a web application designed to streamline the process of organizing events, managing ticket sales, and handling attendee registrations. It provides a user-friendly interface for both event organizers and attendees, making it easy to create, promote, and attend events.
 
 ## Features
@@ -17,7 +15,7 @@ JayHlens Event Management System is a web application designed to streamline the
 
 To run the JayHlens Event Management System locally, follow these steps:
 
-1. **Clone the repository**: `git clone https://github.com/starjakes/jayhlens.git`
+1. **Clone the repository**: `git clone [https://github.com/starjakes/jayhlens.git](https://github.com/Starjakes/Alx-Webstack_Portfolio_Project/tree/master)`
 2. **Navigate to the project directory**: `cd jayhlens`
 3. **Install dependencies**: `pip install flask`
 4. **Set up the MySQL database**: Execute the provided SQL script.
